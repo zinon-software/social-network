@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25940711139",
+    "project_id": "social-network-a6148",
+    "storage_bucket": "social-network-a6148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25940711139:android:a45263234cfc80937117d6",
+        "android_client_info": {
+          "package_name": "com.zainon.social_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25940711139-pnh3hh812rqkof4ho38fagb14sh2q263.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZaSbFBBpImfrSr8HxKB2GinhCob-pAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25940711139-pnh3hh812rqkof4ho38fagb14sh2q263.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
